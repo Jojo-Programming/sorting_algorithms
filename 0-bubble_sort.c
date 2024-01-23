@@ -47,7 +47,7 @@ for (i = 0; i < len - 1; i++)
 
 {
 
-	if (array[i] > array[i + 1])
+if (array[i] > array[i + 1])
 
 {
 swap_ints(array + i, array + i + 1);
